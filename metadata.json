@@ -1,0 +1,8 @@
+{
+  "name": "Keltech Project Tracker",
+  "description": "A real-time, interactive construction status tracker for high-rise residential buildings. Buyers can visualize progress, while Admins use AI to efficiently parse updates from text and site photos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
